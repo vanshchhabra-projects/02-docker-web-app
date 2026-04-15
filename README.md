@@ -12,5 +12,9 @@ docker run -d -p 8081:80 docker-web-app
 - HTML
 - CSS
 
+Screenshots:
+<img width="871" height="491" alt="image" src="https://github.com/user-attachments/assets/b46f2066-f5f4-411c-8871-020ee8f8259b" />
+
+
 ## Author
 Vansh Chhabra
